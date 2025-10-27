@@ -2,6 +2,7 @@
 content_type: resource
 description: Diagrams of building blocks
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/b32e8996daa9c250809aa7aac3515385_paperweight1.jpg
+file_size: 36151
 file_type: image/jpeg
 image_metadata:
   caption: ''

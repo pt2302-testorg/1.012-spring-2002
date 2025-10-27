@@ -2,6 +2,7 @@
 content_type: resource
 description: 'How to Scan Images: Epson Twain screenshot'
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/9f5cd43a52e778a18d39ef1b43380435_image2.jpg
+file_size: 227540
 file_type: image/jpeg
 image_metadata:
   caption: ''

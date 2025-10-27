@@ -2,6 +2,7 @@
 content_type: resource
 description: 'How to Scan Images: Capture Screen Output'
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/af0e649319c7b264b2e2565ebfce3d64_image5.jpg
+file_size: 40647
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: A typical soil profile of the present Back Bay
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/9db95ec1395c4df103f5ddcb209d13d9_soilprofile.jpg
+file_size: 24149
 file_type: image/jpeg
 image_metadata:
   caption: ''

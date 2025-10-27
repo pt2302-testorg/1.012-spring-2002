@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/20e7b19b3384d2bb6f40ec287068d780_fillingbackbay.jpg
+file_size: 101327
 file_type: image/jpeg
 image_metadata:
   caption: ''

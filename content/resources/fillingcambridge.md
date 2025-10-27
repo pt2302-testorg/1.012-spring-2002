@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/586e83a3c5f353a46a3820565e80bead_fillingcambridge.jpg
+file_size: 68489
 file_type: image/jpeg
 image_metadata:
   caption: ''

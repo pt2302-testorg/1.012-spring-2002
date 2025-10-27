@@ -2,6 +2,7 @@
 content_type: resource
 description: 'How to use the SGI cameras: Capture window'
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/f14ea275aaa78b84d19f7182eb185f01_image14.jpg
+file_size: 35220
 file_type: image/jpeg
 image_metadata:
   caption: ''

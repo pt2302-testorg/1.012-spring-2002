@@ -2,6 +2,7 @@
 content_type: resource
 description: 'How to download pictures from the digital camera: "Save as" dialog box'
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/142f59d8904a7b5746addc84f8ae2018_image11.jpg
+file_size: 46326
 file_type: image/jpeg
 image_metadata:
   caption: ''

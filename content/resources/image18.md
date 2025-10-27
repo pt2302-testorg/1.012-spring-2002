@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Preparing your portfolio for HTML: Export HTML window'
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/384916743d99e697007a02f08cf8a081_image18.jpg
+file_size: 58939
 file_type: image/jpeg
 image_metadata:
   caption: ''

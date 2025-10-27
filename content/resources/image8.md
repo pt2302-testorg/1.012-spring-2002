@@ -2,6 +2,7 @@
 content_type: resource
 description: 'How to download pictures from the digital camera: Chooser'
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/c22fff123f52096e98de275646d2e542_image8.jpg
+file_size: 47025
 file_type: image/jpeg
 image_metadata:
   caption: ''

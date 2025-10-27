@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/a58d2b29413c3b440288dfb243648afc_fillingcharlestown2.jpg
+file_size: 61308
 file_type: image/jpeg
 image_metadata:
   caption: ''

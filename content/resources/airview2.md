@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/e12156f612913ffb350e81d173ddf248_airview2.gif
+file_size: 154520
 file_type: image/gif
 image_metadata:
   caption: ''

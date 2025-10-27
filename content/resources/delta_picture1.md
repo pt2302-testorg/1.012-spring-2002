@@ -3,6 +3,7 @@ content_type: resource
 description: Architectural drawing set in fictional "Deltoid Space," a two-dimensional
   environment.
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/18f81685042dafa43b9da6a5ffa82782_delta_picture1.jpg
+file_size: 22127
 file_type: image/jpeg
 image_metadata:
   caption: ''

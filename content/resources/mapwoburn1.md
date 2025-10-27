@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-012-introduction-to-civil-engineering-design-spring-2002/7c7cda2c2e249faf3e6cdbc3c47f98a6_mapwoburn1.gif
+file_size: 69909
 file_type: image/gif
 image_metadata:
   caption: ''
